@@ -55,7 +55,7 @@ src/
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/pqtran512/product-attachment-service.git
 ```
 
 ### 2. Install dependencies

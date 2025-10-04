@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# ignore uploaded files
+/upload
+
 # Logs
 logs
 *.log
